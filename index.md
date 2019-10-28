@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to Ramganga Website
 
-You can use the [editor on GitHub](https://github.com/surajitstat/ramganga/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Empowering social inclusion through 'improving access to clean water and sanitation' for all requires a
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+robust understanding of water-related ecosystems and the benefits that they can provide to society.
 
-### Markdown
+However, 'the global data currently collected through the SDG process do not reflect the general state or trends known about freshwater ecosystems'. Novel mathematical sciences research is essential to enable fusion of Earth observation and on-the-ground data sources to fill the knowledge gaps, provide improved understanding of water quality and address the water management challenges faced by developing countries. This proposal will deliver world leading statistical research supporting the development of a water quality monitoring and modelling framework for the Ramganga sub-basin of the Ganges river basin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Traditional water sampling is based on a small number of sites, and is very labour intensive and expensive, and our proposal brings together data from new in-situ sensors, delivering data at high temporal frequency, coupled with intensive coupling high-end in-situ above and below water characterisation of the biogeo-optical properties of the Ramganga with measurements from calibrated miniaturised hyperspectral imaging radiometers deployed from drones, and data from new satellite missions (Sentinel 2). Together, these provide an efficient and unprecedented means of collecting significant data across a range of environments and pollution discharge scenarios of optical water types in the Ramganga basin. Coupling these data with conventional measures of WQ will provide the much desired framework for extrapolating WQ data at hitherto unachievable spatial and temporal resolutions.
 
-```markdown
-Syntax highlighted code block
+Covering 26% of India's total landmass, water quality and water resources in the Ganges basin are vital
 
-# Header 1
-## Header 2
-### Header 3
+for the wellbeing of one of the largest and densest global populations (43% of India's population).
 
-- Bulleted
-- List
+However, they are being compromised due to activities such as rapid industrialization and
 
-1. Numbered
-2. List
+urbanization, and mitigation efforts are hampered by lack of historical and contemporary discharge and quality data. This project will develop and implement new statistical methodology specifically for the Ramganga sub-basin to integrate the new and existing water quality data with remote sensing satellite data (both historical data from multiple sensors and new retrievals from recent Sentinel missions).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+To address the water quality challenges in the Ramganga sub-basin and to fully utilise the new data streams, novel statistical downscaling and data fusion methodologies through a varying coefficient, hierarchical Bayesian modelling framework will be developed to incorporate river network structure and model quantiles of flow. These approaches support integration of disparate data sources to enable prediction of water resource condition and associated uncertainties to inform risk-based modelling under a range of socio-economic and climate change scenarios, and provide tools to inform future monitoring design. The output of catchment-wide WQ estimates will be made available to policy makers and future researchers to guide policy and design future sampling sites and temporal frequency.
+
+
+## Collaborators
+Glendell, Dr M 	
+Hunter, Dr P D 	
+Sinha, Professor R
+Read, Dr DS 	
+Bowes, Dr M 	
+Scott, Professor M
+Miller, Dr CA 	
+Helliwell, Dr RC 	
+Tyler, Professor AN
+
+
+
+## Funder 
+
+[EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1) and 
+
+![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surajitstat/ramganga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
