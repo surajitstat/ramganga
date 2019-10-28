@@ -1,3 +1,6 @@
+
+![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg)
+
 ## Welcome to Ramganga Website
 
 Empowering social inclusion through 'improving access to clean water and sanitation' for all requires a
@@ -38,6 +41,5 @@ Tyler, Professor AN
 
 [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1) and 
 
-![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg)
 ```
 
