@@ -40,7 +40,7 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 
 [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1) and 
 
-![alt-text-1](images/uog.png)  ![alt-text-2](images/uos.png)  ![alt-text-2](images/ceh.png) ![alt-text-2](images/jhi.png) ![alt-text-2](images/iitk.png) 
+![alt-text-1](images/uog.png){:height="36px"}  ![alt-text-2](images/uos.png){:height="36px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="36px"} ![alt-text-2](images/iitk.png){:height="36px"} 
 
 
 
