@@ -38,12 +38,23 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 * Helliwell, Dr RC 	
 * Tyler, Professor AN
 
+## Meetings and Event
+
+* First Meeting -- October 30th, 2019
+* Second Meeting -- November 22nd, 2019
 
 ## Funder 
 
-[EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1) and 
+[Link to project on EPSRC-GOW](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1)  
 
+
+## Partner institutions
 ![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
+
+## Supporting partners
+
+![alt-text-1](images/iukwc.png){:height="50px"}  ![alt-text-2](images/nmcge.jpg)
+{:height="50px"}  ![alt-text-2](images/aqua-watch-logo.png){:height="36px"} ![alt-text-2](images/mahseer.png){:height="50px"}
 
 
 
