@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+logo: "images/uog.png"
 defaults:
   # _docs
   - scope:
