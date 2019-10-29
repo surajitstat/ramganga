@@ -55,8 +55,8 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 
 ![alt-text-1](images/iukwc.png){:height="50px"}  
 ![alt-text-2](images/nmcge.jpg){:height="50px"}  
-![alt-text-2](images/aqua-watch-logo.png){:height="50px"} 
-![alt-text-2](images/mahseer.png){:height="50px"}
+![alt-text-3](images/aqua-watch-logo.png){:height="50px"} 
+![alt-text-4](images/mahseer.png){:height="50px"}
 
 
 
