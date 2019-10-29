@@ -25,21 +25,22 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 
 
 ## Collaborators
-Glendell, Dr M 	
-Hunter, Dr P D 	
-Sinha, Professor R
-Read, Dr DS 	
-Bowes, Dr M 	
-Scott, Professor M
-Miller, Dr CA 	
-Helliwell, Dr RC 	
-Tyler, Professor AN
-
+* Glendell, Dr M 	
+* Hunter, Dr P D 	
+* Sinha, Professor R
+* Read, Dr DS 	
+* Bowes, Dr M 	
+* Scott, Professor M
+* Miller, Dr CA 	
+* Helliwell, Dr RC 	
+* Tyler, Professor AN
 
 
 ## Funder 
 
 [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1) and 
 
-```
+![alt-text-1](images/uog.png) ![alt-text-2](images/uos.png) ![alt-text-2](images/ceh.png)
+
+
 
