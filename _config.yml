@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Research Project on waterquality of Ramganga
+descripttion:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
 logo: "images/uog.png"
 defaults:
   # _docs
