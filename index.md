@@ -6,9 +6,7 @@
 
 ## Welcome to Ramganga Website
 
-Empowering social inclusion through 'improving access to clean water and sanitation' for all requires a
-
-robust understanding of water-related ecosystems and the benefits that they can provide to society.
+Empowering social inclusion through 'improving access to clean water and sanitation' for all requires a robust understanding of water-related ecosystems and the benefits that they can provide to society.
 
 However, 'the global data currently collected through the SDG process do not reflect the general state or trends known about freshwater ecosystems'. Novel mathematical sciences research is essential to enable fusion of Earth observation and on-the-ground data sources to fill the knowledge gaps, provide improved understanding of water quality and address the water management challenges faced by developing countries. This proposal will deliver world leading statistical research supporting the development of a water quality monitoring and modelling framework for the Ramganga sub-basin of the Ganges river basin.
 
