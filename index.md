@@ -35,40 +35,11 @@ urbanization, and mitigation efforts are hampered by lack of historical and cont
 To address the water quality challenges in the Ramganga sub-basin and to fully utilise the new data streams, novel statistical downscaling and data fusion methodologies through a varying coefficient, hierarchical Bayesian modelling framework will be developed to incorporate river network structure and model quantiles of flow. These approaches support integration of disparate data sources to enable prediction of water resource condition and associated uncertainties to inform risk-based modelling under a range of socio-economic and climate change scenarios, and provide tools to inform future monitoring design. The output of catchment-wide WQ estimates will be made available to policy makers and future researchers to guide policy and design future sampling sites and temporal frequency.
 
 
-## Collaborators
-* [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
-* [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
-* [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 	
-* [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
-* [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 
-* [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
-* [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
-* [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 
-* [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
-* [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
 
 ## Meetings and Event
 
 * First Meeting -- October 30th, 2019
 * Second Meeting -- November 22nd, 2019
-
-## Funder 
-
-[Link to project on EPSRC-GOW](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1)  
-
-
-## Partner institutions
-
----
-![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="50px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
-
----
-
-## Supporting partners
----
-![alt-text-1](images/iukwc.png){:height="50px"}  ![alt-text-2](images/nmcge.jpg){:height="50px"}   ![alt-text-3](images/aqua-watch-logo.png){:height="50px"}  ![alt-text-4](images/mahseer.png){:height="50px"}
-
----
 
 
 
