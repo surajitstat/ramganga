@@ -4,10 +4,11 @@
 
 
 | 
-{% for item in site.data.samplelist.docs %}
-<a href="{{ item.url }}">{{ item.title }}</a>|
-{% endfor %}
-
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <a href="{{ item.url }}">{{ item.title }}</a>|
+   {% endfor %}
+</ul>
 
 ![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
