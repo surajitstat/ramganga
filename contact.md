@@ -1,7 +1,7 @@
 
 
 
-> [Surajit Ray](mailto:surajit.ray@glasgow.ac.uk)
+> [Contact Email](mailto:surajit.ray@glasgow.ac.uk)
 
 
 ### Postal address
@@ -12,7 +12,7 @@ University Place
 Glasgow G12 8QQ
 United Kingdom
 
-### Visitor information 
+### Visitor information to the University of Glasgow
 <ul>
 <li><a href="http://www.gla.ac.uk/about/maps/howtogethere/" target="_blank">How to get to the University of Glasgow</a></li>
 <li><a href="http://www.gla.ac.uk/media/media_335384_en.pdf" target="_blank">Campus Map - We are located at C3</a></li>
