@@ -37,13 +37,6 @@
       %}
 
       
- {% for link in site.data.nav-links %}
-  <a href="{{ link.url }}">{{ link.text }}</a>
-  {% for sub_link in link.dropdown %}
-    <a href="{{ sub_link.url }}">{{ sub_link.text }}</a>
-  {% endfor %}
-{% endfor %}
-      
 
 {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
