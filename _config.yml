@@ -11,3 +11,5 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+github:
+  is_project_page: false
