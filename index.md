@@ -26,15 +26,15 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 
 
 ## Collaborators
-* Glendell, Dr M 	
-* Hunter, Dr P D 	
-* Sinha, Professor R
-* Read, Dr DS 	
-* Bowes, Dr M 	
-* Scott, Professor M
-* Miller, Dr CA 	
-* Helliwell, Dr RC 	
-* Tyler, Professor AN
+* [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 	
+* [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
+* [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
+* [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read) 	
+* [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 	
+* [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
+* [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 	
+* [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell) 	
+* [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
 
 ## Meetings and Event
 
