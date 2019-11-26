@@ -9,6 +9,7 @@
       <a href="{{ item.url }}">{{ item.title }}</a>|
    {% endfor %}
 </tr>
+</table>
 
 ![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
