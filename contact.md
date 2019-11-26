@@ -1,7 +1,13 @@
-## This is a file with contacts of PI's
+<table style="width:100%">
+<tr>
+   {% for item in site.data.samplelist.docs %}
+    <th>  <a href="{{ item.url }}">{{ item.title }}</a> </th>
+   {% endfor %}
+</tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/surajitstat/ramganga/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
 
-### Markdown
+
