@@ -1,7 +1,7 @@
 
 
 ## Map of Ramganga sub-basin
-![maps](/ramganga/assets/images/maps.png)
+![maps](assets/images/maps.jpg)
 
 ## Hyperspectral Drone being deployed
 
