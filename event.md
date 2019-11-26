@@ -1,5 +1,8 @@
-## Meetings and Event
 
-* First Meeting -- October 30th, 2019
-* Second Meeting -- November 22nd, 2019
+
+| 2019        |             |               |
+| :---        |    :----  |          :--- |
+| November 22 | Team Meeting (in person and zoom)       | University of Glasgow|
+| October 30   | Team Meeting (zoom)       |  University of Glasgow     |
+
 
