@@ -1,3 +1,4 @@
+<section class="page-header">
 <table style="width:100%" bgcolor="#00FF00">
 <tr>
    {% for item in site.data.samplelist.docs %}
@@ -5,6 +6,7 @@
    {% endfor %}
 </tr>
 </table>
+</section>
 
 ![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
