@@ -33,13 +33,13 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 ## Partner institutions
 
 ---
-![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="50px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
+![alt-text-1](assets/images/uog.png){:height="50px"}  ![alt-text-2](assets/images/uos.png){:height="50px"}  ![alt-text-2](assets/images/ceh.png){:height="50px"} ![alt-text-2](assets/images/jhi.png){:height="50px"} ![alt-text-2](assets/images/iitk.png){:height="50px"} 
 
 ---
 
 ## Supporting partners
 ---
-![alt-text-1](images/iukwc.png){:height="50px"}  ![alt-text-2](images/nmcge.jpg){:height="50px"}   ![alt-text-3](images/aqua-watch-logo.png){:height="50px"}  ![alt-text-4](images/mahseer.png){:height="50px"}
+![alt-text-1](assets/images/iukwc.png){:height="50px"}  ![alt-text-2](assets/images/nmcge.jpg){:height="50px"}   ![alt-text-3](assets/images/aqua-watch-logo.png){:height="50px"}  ![alt-text-4](assets/images/mahseer.png){:height="50px"}
 
 ---
 
