@@ -2,12 +2,17 @@ docs_list_title: Menu item
 docs:
 
 
-- title: Introduction
-  url: introduction.html
+- title: Home
+  url: index.html
 
-- title: Configuration
-  url: configuration.html
+- title: About
+  url: about.html
 
-- title: Deployment
-  url: deployment.html
+- title: Events
+  url: event.html
 
+- title: Resources
+  url: contact.html
+
+- title: Gallery
+  url: gallery.html
