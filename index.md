@@ -2,14 +2,6 @@
 
 
 
-<table style="width:100%">
-<tr>
-   {% for item in site.data.samplelist.docs %}
-    <th>  <a href="{{ item.url }}">{{ item.title }}</a> </th>
-   {% endfor %}
-</tr>
-</table>
-
 ![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
 ![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
@@ -35,5 +27,6 @@ urbanization, and mitigation efforts are hampered by lack of historical and cont
 To address the water quality challenges in the Ramganga sub-basin and to fully utilise the new data streams, novel statistical downscaling and data fusion methodologies through a varying coefficient, hierarchical Bayesian modelling framework will be developed to incorporate river network structure and model quantiles of flow. These approaches support integration of disparate data sources to enable prediction of water resource condition and associated uncertainties to inform risk-based modelling under a range of socio-economic and climate change scenarios, and provide tools to inform future monitoring design. The output of catchment-wide WQ estimates will be made available to policy makers and future researchers to guide policy and design future sampling sites and temporal frequency.
 
 
+![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
 
 

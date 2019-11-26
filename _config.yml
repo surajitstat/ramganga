@@ -6,7 +6,7 @@ logo: "images/uog.png"
 defaults:
   # _docs
   - scope:
-      path: ""
+      path: "images/"
       type: docs
     values:
       sidebar:
