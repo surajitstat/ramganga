@@ -1,7 +1,7 @@
 <table style="width:100%">
 <tr>
    {% for item in site.data.samplelist.docs %}
-    <th>  <a href="{{ item.url }}">{{ item.title }}</a> </th>
+    <th>  <a class="btn" href="{{ item.url }}">{{ item.title }}</a> </th>
    {% endfor %}
 </tr>
 </table>
