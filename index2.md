@@ -10,48 +10,14 @@ summary: These brief instructions will help you get started quickly with the the
 
 ![alt-text-1](images/uog.png){:height="50px"}  ![alt-text-2](images/uos.png){:height="50px"}  ![alt-text-2](images/ceh.png){:height="36px"} ![alt-text-2](images/jhi.png){:height="50px"} ![alt-text-2](images/iitk.png){:height="50px"} 
 
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+<hl>
+|   {% for item in site.data.samplelist.docs %}
+      <a href="{{ item.url }}">{{ item.title }}</a> | 
    {% endfor %}
-</ul>
+</hl>
 
 
 
-
-
-<nav id="navbar" class="collapse navbar-collapse">
-    <ul class="nav navbar-nav">
-        {% assign links = site.data.navigation %}
-        {% for link in links %}
-            {% assign class = nil %}
-            {% if page.url contains link.url %}
-                {% assign class = 'active' %}
-            {% endif %}
-            {% if link.sublinks %}
-                <li class="dropdown {{ class }}">
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        {% for sublink in link.sublinks %}
-                            {% if sublink.title == 'separator' %}
-                                <li role="separator" class="divider"></li>
-                            {% else %}
-                                <li>
-                                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                                </li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
-                </li>
-            {% else %}
-                <li class="{{ class }}">
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</nav>
 
 
 
