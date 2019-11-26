@@ -1,10 +1,5 @@
 
-
-
-
-![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
-
-{% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="60" unit="%" duration="5" %}
   
 ## Welcome to Ramganga Website
 
