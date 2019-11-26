@@ -4,7 +4,8 @@
 
 ![Image](https://www.gla.ac.uk/media/Media_681177_smxx.jpg){:width="100%"} 
 
-
+{% include carousel.html height="50" unit="%" duration="7" %}
+  
 ## Welcome to Ramganga Website
 
 Empowering social inclusion through 'improving access to clean water and sanitation' for all requires a robust understanding of water-related ecosystems and the benefits that they can provide to society.
