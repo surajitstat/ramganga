@@ -5,7 +5,7 @@
 
 | 
 {% for item in site.data.samplelist.docs %}
-<a href="{{ item.url }}">{{ item.title }}</a> |
+<a href="{{ item.url }}">{{ item.title }}</a>|
 {% endfor %}
 
 
