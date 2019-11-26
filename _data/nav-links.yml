@@ -1,0 +1,7 @@
+- text: Animals
+  url: '/animals/'
+  dropdown:
+    - text: Duck
+      url: '/duck/'
+    - text: Goose
+      url: '/goose/'
