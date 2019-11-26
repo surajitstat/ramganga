@@ -1,5 +1,5 @@
 <section class="page-header">
-<table style="width:100%" bgcolor="#00FF00">
+<table style="width:100%">
 <tr>
    {% for item in site.data.samplelist.docs %}
     <th>  <a class="btn" href="{{ item.url }}">{{ item.title }}</a> </th>
