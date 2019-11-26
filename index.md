@@ -36,10 +36,4 @@ To address the water quality challenges in the Ramganga sub-basin and to fully u
 
 
 
-## Meetings and Event
-
-* First Meeting -- October 30th, 2019
-* Second Meeting -- November 22nd, 2019
-
-
 
