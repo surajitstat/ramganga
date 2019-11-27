@@ -9,3 +9,6 @@
 
 ## Video Playlist about Ramganga river
 <iframe width="640" height="480" src="https://www.youtube.com/embed/videoseries?list=PLTCVcPxj-zux0wZl4LPIvAOatDk0uvT2u" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Sentinel tiles covering Ramganga sub-basin
+![tiles](assets/images/senitel_tiles.png)
