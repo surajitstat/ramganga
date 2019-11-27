@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title:  Ramganga
 description:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
 tagline:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
-logo: "images/uog.png"
+logo: "assets/logo/logo3.png"
 defaults:
   # _docs
   - scope:
