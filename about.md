@@ -29,7 +29,7 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 ### University of Glasgow
 [![Ray, S. (PI) ](https://www.gla.ac.uk/media/Media_633760_smxx.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 <!--- -->
-[![Scott, Professor M](http://www.globolakes.ac.uk/images/people/m_scott.jpg)] (https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
+[![Scott, Professor M](http://www.globolakes.ac.uk/images/people/m_scott.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 <!--- -->
 [![Miller, Dr CA](http://www.globolakes.ac.uk/images/people/C.Miller.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
 
@@ -46,8 +46,8 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
  [![Bowes, Dr M](https://www.ceh.ac.uk/sites/default/files/styles/ceh_staff/public/pictures/picture-573-1451994729.jpg?itok=IGu1mhq_)](https://www.ceh.ac.uk/staff/mike-bowes) 
 
 ### University of Stirling
-[![Tyler, Professor AN](http://www.globolakes.ac.uk/images/people/a_tyler.jpg)] (https://www.stir.ac.uk/people/257330)
-[![Hunter, Dr P D](http://www.globolakes.ac.uk/images/people/phunter.jpeg)] (https://www.stir.ac.uk/people/255710) 	
+[![Tyler, Professor AN](http://www.globolakes.ac.uk/images/people/a_tyler.jpg)](https://www.stir.ac.uk/people/257330)
+[![Hunter, Dr P D](http://www.globolakes.ac.uk/images/people/phunter.jpeg)](https://www.stir.ac.uk/people/255710) 	
 
 ## Funder 
 
