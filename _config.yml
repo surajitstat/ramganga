@@ -3,6 +3,7 @@ title:  Ramganga
 description:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
 tagline:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
 logo: "assets/logo/logo3.png"
+author: Surajit Ray
 defaults:
   # _docs
   - scope:
