@@ -36,7 +36,7 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 </details>
 
 ### University of Glasgow
-[![Ray, S. (PI) ](https://www.gla.ac.uk/media/Media_633760_smxx.jpg)*Surajit Ray*][https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/]
+[![Ray, S. (PI) ](https://www.gla.ac.uk/media/Media_633760_smxx.jpg){: .shadow}*Surajit Ray*][https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/]
 
 <!--- -->
 [![Scott, Professor M](assets/faces/mscott.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
