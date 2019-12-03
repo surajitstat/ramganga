@@ -29,27 +29,27 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 
 
 ### University of Glasgow
-[![Ray, S. (PI)] (https://www.gla.ac.uk/media/Media_633760_smxx.jpg){:width="200px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/) 
+[![Ray, S. (PI)] (https://www.gla.ac.uk/media/Media_633760_smxx.jpg{:width="300px" :height="400px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/) 
 <!--- -->
-[![Scott, Professor M](assets/faces/mscott.jpg){:width="200px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
+[![Scott, Professor M](assets/faces/mscott.jpg){:width="300px" :height="400px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 <!--- -->
-[![Miller, Dr CA](http://www.globolakes.ac.uk/images/people/C.Miller.jpg){:width="200px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+[![Miller, Dr CA](http://www.globolakes.ac.uk/images/people/C.Miller.jpg){:width="300px" :height="400px"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
 
 ###	 James Hutton Institute
- [![Helliwell, Dr RC](https://www.hutton.ac.uk/sites/default/files/imagecache/staff_page_image/images/staff/rachel-helliwell_1.jpg){:width="200px"}](https://www.hutton.ac.uk/staff/rachel-helliwell)
+ [![Helliwell, Dr RC](https://www.hutton.ac.uk/sites/default/files/imagecache/staff_page_image/images/staff/rachel-helliwell_1.jpg){:width="300px" :height="400px"}](https://www.hutton.ac.uk/staff/rachel-helliwell)
 <!--- -->
-[![Glendell, Dr M](https://www.hutton.ac.uk/sites/default/files/imagecache/staff_page_image/images/staff/miriam-glendell.jpg){:width="200px"}](https://www.hutton.ac.uk/staff/miriam-glendell) 
+[![Glendell, Dr M](https://www.hutton.ac.uk/sites/default/files/imagecache/staff_page_image/images/staff/miriam-glendell.jpg){:width="300px" :height="400px"}](https://www.hutton.ac.uk/staff/miriam-glendell) 
 
 ### Indian Institute of Technology, Kharagpur
- [![Sinha, Professor R](http://home.iitk.ac.in/~rsinha/img/rajiv%20sinha.png){:width="200px"}](http://home.iitk.ac.in/~rsinha/)
+ [![Sinha, Professor R](http://home.iitk.ac.in/~rsinha/img/rajiv%20sinha.png){:width="300px" :height="400px"}](http://home.iitk.ac.in/~rsinha/)
 
 ### Center for Ecology and Hydrology
- [![Read, Dr D S](https://www.ceh.ac.uk/sites/default/files/styles/ceh_staff/public/pictures/picture-920-1436872977.jpg?itok=9Qv3PtzH){:width="200px"}](https://www.ceh.ac.uk/staff/daniel-read)
- [![Bowes, Dr M](https://www.ceh.ac.uk/sites/default/files/styles/ceh_staff/public/pictures/picture-573-1451994729.jpg?itok=IGu1mhq_){:width="200px"}](https://www.ceh.ac.uk/staff/mike-bowes) 
+ [![Read, Dr D S](https://www.ceh.ac.uk/sites/default/files/styles/ceh_staff/public/pictures/picture-920-1436872977.jpg?itok=9Qv3PtzH){:width="300px" :height="400px"}](https://www.ceh.ac.uk/staff/daniel-read)
+ [![Bowes, Dr M](https://www.ceh.ac.uk/sites/default/files/styles/ceh_staff/public/pictures/picture-573-1451994729.jpg?itok=IGu1mhq_){:width="300px" :height="400px"}](https://www.ceh.ac.uk/staff/mike-bowes) 
 
 ### University of Stirling
-[![Tyler, Professor AN](http://www.globolakes.ac.uk/images/people/a_tyler.jpg){:width="200px"}](https://www.stir.ac.uk/people/257330)
-[![Hunter, Dr P D](http://www.globolakes.ac.uk/images/people/phunter.jpeg){:width="200px"}](https://www.stir.ac.uk/people/255710) 	
+[![Tyler, Professor AN](http://www.globolakes.ac.uk/images/people/a_tyler.jpg){:width="300px" :height="400px"}](https://www.stir.ac.uk/people/257330)
+[![Hunter, Dr P D](http://www.globolakes.ac.uk/images/people/phunter.jpeg){:width="300px" :height="400px"}](https://www.stir.ac.uk/people/255710) 	
 
 ## Funder 
 
