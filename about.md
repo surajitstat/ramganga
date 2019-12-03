@@ -26,29 +26,11 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 
 ## Team with pictures and link
 
-<details>
-<summary>have a try</summary>
-<p>
-</p><blockquote>
-<p>Look at what I hide!</p>
-</blockquote>
-<p></p>
-</details>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-    
-  </div>
-</div>
 
 
 ### University of Glasgow
 <
-[![Ray, S. (PI) ](https://www.gla.ac.uk/media/Media_633760_smxx.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
+[![Ray, S. (PI) | 512x397, 30%](https://www.gla.ac.uk/media/Media_633760_smxx.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 <!--- -->
 [![Scott, Professor M](assets/faces/mscott.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 <!--- -->
