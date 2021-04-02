@@ -8,6 +8,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 * [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 * [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 * [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+* [Wilkie, Dr CJ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/)
 
 ###	 James Hutton Institute
 * [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
@@ -15,6 +16,8 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 
 ### Indian Institute of Technology, Kanpur
 * [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
+* [Singh, Dr MN](http://home.iitk.ac.in/~manudeo/)
+* Choudhary, Dr BC
 
 ### UK Centre for Ecology and Hydrology
 * [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
@@ -23,6 +26,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 ### University of Stirling
 * [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
 * [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
+* [Mascarenhas, Dr V](https://www.stir.ac.uk/people/1677279)
 
 ## Team with pictures and link
 
