@@ -9,17 +9,17 @@ The Indian Institute of Technology Kanpur team are collecting data from 17 sites
 
 Sampling campaigns are being carried out to catch multiple cycles of data:
 
-| 2019 |  
-| :--- | 
-|       Monsoon (August) |
-|       Post-monsoon (December) |
+| 2019 |  Geochemical data | Sonde instrument | WISP instrument | Biological kit | DNA kit | Drone |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|       Monsoon (August) | Yes
+|       Post-monsoon (December) | Yes
 | **2020** |  
-|       Monsoon (September) |
-|       Post-monsoon (December) |
+|       Monsoon (September) | Yes | Yes 
+|       Post-monsoon (December) | Yes | Yes 
 | **2021** | 
-|       Pre-monsoon (March) |
-|       Monsoon (TBC) |
-|       Post-monsoon (TBC) |
+|       Pre-monsoon (March) | Yes | Yes | Yes | Yes | Yes 
+|       Monsoon (TBC) | Yes | Yes | Yes | Yes | Yes | Yes 
+|       Post-monsoon (TBC) | Yes | Yes | Yes | Yes | Yes | Yes 
 
 Water samples are collected to be analysed in the laboratory by Inductively coupled plasma mass spectroscopy (ICP-MS) and by Ion Chromatography. Two instruments and two kits provide additional data.
 
