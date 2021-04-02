@@ -1,7 +1,7 @@
 
 
 
-Ramganga is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
+The Ramganga Water Quality Fusion project is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
 
 ## Team
 ### University of Glasgow
@@ -13,10 +13,10 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 * [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
 * [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 
 
-### Indian Institute of Technology, Kharagpur
+### Indian Institute of Technology, Kanpur
 * [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
 
-### Center for Ecology and Hydrology
+### UK Centre for Ecology and Hydrology
 * [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
 * [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 
 
@@ -40,10 +40,10 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 <!--- -->
 [![Glendell, Dr M](assets/faces/miriam-glendell.jpg)](https://www.hutton.ac.uk/staff/miriam-glendell) 
 
-### Indian Institute of Technology, Kharagpur
+### Indian Institute of Technology, Kanpur
  [![Sinha, Professor R](assets/faces/rajiv-sinha.png)](http://home.iitk.ac.in/~rsinha/)
 
-### Center for Ecology and Hydrology
+### UK Centre for Ecology and Hydrology
  [![Read, Dr D S](assets/faces/dan-read.jpg)](https://www.ceh.ac.uk/staff/daniel-read)
  [![Bowes, Dr M](assets/faces/mike-bowes.jpg)](https://www.ceh.ac.uk/staff/mike-bowes) 
 
