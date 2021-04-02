@@ -1,28 +1,32 @@
 
 
 
-Ramganga is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
+The Ramganga Water Quality Fusion project is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
 
 ## Team
 ### University of Glasgow
 * [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 * [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 * [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+* [Wilkie, Dr CJ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/)
 
 ###	 James Hutton Institute
 * [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
 * [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 
 
-### Indian Institute of Technology, Kharagpur
+### Indian Institute of Technology, Kanpur
 * [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
+* [Singh, Dr MN](http://home.iitk.ac.in/~manudeo/)
+* [Choudhary, Dr BC](https://www.researchgate.net/profile/Bharat-Choudhary-2)
 
-### Center for Ecology and Hydrology
+### UK Centre for Ecology and Hydrology
 * [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
 * [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 
 
 ### University of Stirling
 * [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
 * [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
+* [Mascarenhas, Dr V](https://www.stir.ac.uk/people/1677279)
 
 ## Team with pictures and link
 
@@ -40,10 +44,11 @@ Ramganga is a collaboration between two leading UK universities, one leading Ind
 <!--- -->
 [![Glendell, Dr M](assets/faces/miriam-glendell.jpg)](https://www.hutton.ac.uk/staff/miriam-glendell) 
 
-### Indian Institute of Technology, Kharagpur
+### Indian Institute of Technology, Kanpur
  [![Sinha, Professor R](assets/faces/rajiv-sinha.png)](http://home.iitk.ac.in/~rsinha/)
+ [![Choudhary, Dr B C](assets/faces/Dr_Bharat_Choudhary.jpg)](https://www.researchgate.net/profile/Bharat-Choudhary-2) 
 
-### Center for Ecology and Hydrology
+### UK Centre for Ecology and Hydrology
  [![Read, Dr D S](assets/faces/dan-read.jpg)](https://www.ceh.ac.uk/staff/daniel-read)
  [![Bowes, Dr M](assets/faces/mike-bowes.jpg)](https://www.ceh.ac.uk/staff/mike-bowes) 
 
