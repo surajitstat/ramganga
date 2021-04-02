@@ -17,7 +17,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 ### Indian Institute of Technology, Kanpur
 * [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
 * [Singh, Dr MN](http://home.iitk.ac.in/~manudeo/)
-* Choudhary, Dr BC
+* [Choudhary, Dr BC](https://www.researchgate.net/profile/Bharat-Choudhary-2)
 
 ### UK Centre for Ecology and Hydrology
 * [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
@@ -46,6 +46,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 
 ### Indian Institute of Technology, Kanpur
  [![Sinha, Professor R](assets/faces/rajiv-sinha.png)](http://home.iitk.ac.in/~rsinha/)
+ [![Choudhary, Dr B C](assets/faces/Dr_Bharat_Choudhary.jpg)](https://www.researchgate.net/profile/Bharat-Choudhary-2)
 
 ### UK Centre for Ecology and Hydrology
  [![Read, Dr D S](assets/faces/dan-read.jpg)](https://www.ceh.ac.uk/staff/daniel-read)
