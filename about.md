@@ -7,7 +7,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 ### University of Glasgow
 * [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 * [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
-* [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+* [Miller, Professor CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
 * [Wilkie, Dr CJ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/)
 
 ###	 James Hutton Institute
@@ -37,7 +37,9 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 <!--- -->
 [![Scott, Professor M](assets/faces/mscott.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
 <!--- -->
-[![Miller, Dr CA](assets/faces/cmiller.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+[![Miller, Professor CA](assets/faces/cmiller.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+<!--- -->
+[![Wilkie, Dr C J](assets/faces/craig_wilkie_2.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/) 
 
 ###	 James Hutton Institute
  [![Helliwell, Dr RC](assets/faces/rachel-helliwell.jpg)](https://www.hutton.ac.uk/staff/rachel-helliwell)
