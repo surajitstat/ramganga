@@ -3,10 +3,7 @@
 
 | 2021        |             |               |
 | :---        |    :----  |          :--- |
-| April 8 | Conference Talk by Dr. Craig Wilkie | [CNC21](https://cnc21.sciencesconf.org/) |
 | April 28 | Conference Talk by Dr. Craig Wilkie | [EGU21](https://www.egu21.eu/) |
-
-Dr. Craig Wilkie will present a talk titled **"Statistical Downscaling for the Fusion of In-river, Drone and Satellite Water Quality Data in a River Network"** at the "Spatial and environmental modelling" session of the [8th Channel Network Conference (CNC21)](https://cnc21.sciencesconf.org/).
 
 Dr. Craig Wilkie will present a talk titled **"Bayesian spatiotemporal statistical modelling of water quality within rivers"** at session HS2.3.7 of the [European Geosciences Union General Assembly 2021 (EGU21)](https://www.egu21.eu/).
 
@@ -32,6 +29,7 @@ Dr. Craig Wilkie will present a talk titled **"Bayesian spatiotemporal statistic
 | January 26 | Team Meeting (zoom) | |
 | March 2 | [Public talk by Prof. Rajiv Sinha](https://www.youtube.com/watch?v=8Uz5tVF0dxg) | Gyan Ganga/ VIPNET Tuesday Lecture Series, Vigyan Prasar |
 | March 30 | Team Meeting (zoom) | |
+| April 8 | [Conference Talk by Dr. Craig Wilkie](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf) | [CNC21](https://cnc21.sciencesconf.org/) |
 
 **Public talks**
 
@@ -42,6 +40,9 @@ On 2nd March 2021 at 16:00 IST, Prof. Rajiv Sinha took part in the Gyan Ganga/ V
 Dr. Surajit Ray presented a talk titled [**"Developing Statistical Downscaling to Improve Water Quality Understanding and Management in the Ramganga Sub-Basin"**](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=309219) at the session titled "Solving Environmental Problems Through Data Assimilation" as part of the 2020 Joint Statistical Meetings (JSM 2020) on 6th August 2020. The slides are available [here](https://github.com/surajitstat/ramganga/files/6249888/JSM2020_slides.pdf).
 
 Dr. Craig Wilkie presented a talk titled [**"Spatiotemporal statistical modelling of water quality within river networks"**](http://environmetrics.org/vc2020_program.html) at the session titled "Fresh Water Quality Monitoring and Analysis" as part of The International Environmetrics Society virtual conference (TIES 2020) on 4th December 2020. The slides are available [here](https://github.com/surajitstat/ramganga/files/6249867/TIES2020_slides.pdf).
+
+Dr. Craig Wilkie presented a talk titled **"Statistical Downscaling for the Fusion of In-river, Drone and Satellite Water Quality Data in a River Network"** at the "Spatial and environmental modelling" session of the [8th Channel Network Conference (CNC21)](https://cnc21.sciencesconf.org/) on 8th April 2021. The slides are available [here](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf).
+
 
 **Workshop**
 
