@@ -73,7 +73,7 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 
 ## Supporting partners
 ---
-[![alt-text-1](assets/images/iukwc.png){:height="50px"}](https://iukwc.org/)  [![alt-text-2](assets/images/nmcge.jpg){:height="50px"}](https://nmcg.nic.in/NamamiGanga.aspx)   [![alt-text-3](assets/images/aqua-watch-logo.png){:height="50px"}](https://www.geoaquawatch.org/)  [![alt-text-4](assets/images/mahseer.png){:height="50px"}](https://www.mahseertrust.org/)
+[![alt-text-1](assets/images/iukwc.png){:height="50px"}](https://iukwc.org/)  [![alt-text-2](assets/images/nmcge.jpg){:height="50px"}](https://nmcg.nic.in/NamamiGanga.aspx)   [![alt-text-3](assets/images/aqua-watch-logo_2.png){:height="50px"}](https://www.geoaquawatch.org/)  [![alt-text-4](assets/images/mahseer.png){:height="50px"}](https://www.mahseertrust.org/)
 
 ---
 
