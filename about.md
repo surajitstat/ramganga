@@ -67,13 +67,13 @@ The Ramganga Water Quality Fusion project is a collaboration between two leading
 ## Partner institutions
 
 ---
-![alt-text-1](assets/images/uog.png){:height="50px"}  ![alt-text-2](assets/images/uos.png){:height="50px"}  ![alt-text-2](assets/images/ceh.png){:height="50px"} ![alt-text-2](assets/images/jhi.png){:height="50px"} ![alt-text-2](assets/images/iitk.png){:height="50px"} 
+[![alt-text-1](assets/images/uog.png){:height="50px"}](https://www.gla.ac.uk/)  [![alt-text-2](assets/images/uos.png){:height="50px"}](https://www.stir.ac.uk/)  [![alt-text-2](assets/images/ceh.png){:height="50px"}](https://www.ceh.ac.uk/) [![alt-text-2](assets/images/jhi.png){:height="50px"}](https://www.hutton.ac.uk/) [![alt-text-2](assets/images/iitk.png){:height="50px"}](https://www.iitk.ac.in/) 
 
 ---
 
 ## Supporting partners
 ---
-![alt-text-1](assets/images/iukwc.png){:height="50px"}  ![alt-text-2](assets/images/nmcge.jpg){:height="50px"}   ![alt-text-3](assets/images/aqua-watch-logo.png){:height="50px"}  ![alt-text-4](assets/images/mahseer.png){:height="50px"}
+[![alt-text-1](assets/images/iukwc.png){:height="50px"}](https://iukwc.org/)  [![alt-text-2](assets/images/nmcge.jpg){:height="50px"}](https://nmcg.nic.in/NamamiGanga.aspx)   [![alt-text-3](assets/images/aqua-watch-logo.png){:height="50px"}](https://www.geoaquawatch.org/)  [![alt-text-4](assets/images/mahseer.png){:height="50px"}](https://www.mahseertrust.org/)
 
 ---
 
