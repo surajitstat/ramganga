@@ -3,9 +3,8 @@
 
 | 2021        |             |               |
 | :---        |    :----  |          :--- |
-| April 28 | Conference Talk by Dr. Craig Wilkie | [EGU21](https://www.egu21.eu/) |
 
-Dr. Craig Wilkie will present a talk titled **"Bayesian spatiotemporal statistical modelling of water quality within rivers"** at session HS2.3.7 of the [European Geosciences Union General Assembly 2021 (EGU21)](https://www.egu21.eu/).
+No events currently scheduled. Events will appear here.
 
 **Calendar of past events**
 
@@ -30,6 +29,7 @@ Dr. Craig Wilkie will present a talk titled **"Bayesian spatiotemporal statistic
 | March 2 | [Public talk by Prof. Rajiv Sinha](https://www.youtube.com/watch?v=8Uz5tVF0dxg) | Gyan Ganga/ VIPNET Tuesday Lecture Series, Vigyan Prasar |
 | March 30 | Team Meeting (zoom) | |
 | April 8 | [Conference Talk by Dr. Craig Wilkie](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf) | [CNC21](https://cnc21.sciencesconf.org/) |
+| April 28 | [Conference Talk by Dr. Craig Wilkie](https://user-images.githubusercontent.com/59825180/117304154-570fec00-ae75-11eb-88c6-db80a3653b55.png) | [EGU21](https://www.egu21.eu/) |
 
 **Public talks**
 
@@ -43,6 +43,7 @@ Dr. Craig Wilkie presented a talk titled [**"Spatiotemporal statistical modellin
 
 Dr. Craig Wilkie presented a talk titled **"Statistical Downscaling for the Fusion of In-river, Drone and Satellite Water Quality Data in a River Network"** at the "Spatial and environmental modelling" session of the [8th Channel Network Conference (CNC21)](https://cnc21.sciencesconf.org/) on 8th April 2021. The slides are available [here](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf).
 
+Dr. Craig Wilkie presented a talk titled **"Bayesian spatiotemporal statistical modelling of water quality within rivers"** at session HS2.3.7 of the [European Geosciences Union General Assembly 2021 (EGU21)](https://www.egu21.eu/). The slide is available [here](https://user-images.githubusercontent.com/59825180/117304154-570fec00-ae75-11eb-88c6-db80a3653b55.png).
 
 **Workshop**
 
