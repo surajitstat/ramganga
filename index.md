@@ -1,5 +1,5 @@
 
-{% include _includes/carousel.html height="60" unit="%" duration="5" %}
+{% include carousel.html height="60" unit="%" duration="5" %}
   
 ## Who we are
 
