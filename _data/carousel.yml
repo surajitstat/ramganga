@@ -1,8 +1,8 @@
 images: 
-  - image: /ramganga/assets/images/satellite.jpg
-  - image: /ramganga/assets/images/ramganga.jpg
-  - image: /ramganga/assets/images/sentinel_allahbad_kumbh.jpg
-  - image: /ramganga/assets/images/hyperspectral.png
-  - image: /ramganga/assets/images/exo-2-with-handheld.jpg
+  - image: ../assets/images/satellite.jpg
+  - image: ../assets/images/ramganga.jpg
+  - image: ../assets/images/sentinel_allahbad_kumbh.jpg
+  - image: ../assets/images/hyperspectral.png
+  - image: ../assets/images/exo-2-with-handheld.jpg
 
 
