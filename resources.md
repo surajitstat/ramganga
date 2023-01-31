@@ -49,7 +49,8 @@ The NSD R package for nonparametric statistical downscaling is available on GitH
 * `run.NSDmodel()` allows fitting the nonparametric statistical downscaling model of [Wilkie et al. (2019)](https://doi.org/10.1002/env.2549) to fuse data of different spatiotemporal support.
 * `run.NSDmodelMulti()` is similar to `run.NSDmodel()`, but with two covariates to be fused with the response rather than the single covariate in `run.NSDmodel()`.
 
-The R package documentation is available as a PDF document [here](https://github.com/surajitstat/ramganga/files/6434545/NSD.pdf).
+The R package documentation is available as a PDF document here: [NSD.pdf](https://github.com/surajitstat/ramganga/files/10549593/NSD.pdf).
 
 ## Shiny App
+
 
