@@ -1,9 +1,6 @@
 
 **Future events**
 
-| 2021        |             |               |
-| :---        |    :----  |          :--- |
-
 No events currently scheduled. Events will appear here.
 
 **Calendar of past events**
@@ -30,6 +27,13 @@ No events currently scheduled. Events will appear here.
 | March 30 | Team Meeting (zoom) | |
 | April 8 | [Conference Talk by Dr. Craig Wilkie](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf) | [CNC21](https://cnc21.sciencesconf.org/) |
 | April 28 | [Conference Talk by Dr. Craig Wilkie](https://user-images.githubusercontent.com/59825180/117304154-570fec00-ae75-11eb-88c6-db80a3653b55.png) | [EGU21](https://www.egu21.eu/) |
+| **2022**        |             |               |
+| July 7 | [PICO Talk](https://github.com/surajitstat/ramganga/files/11146862/PICO_slide_CraigWilkie.pdf) and [poster](https://github.com/surajitstat/ramganga/files/11146876/draft2.pdf) by Dr. Craig Wilkie | [CEDS22](https://wp.lancs.ac.uk/ceds/) |
+| September 13 | [Conference Poster by Dr. Craig Wilkie](https://github.com/surajitstat/ramganga/files/11146892/draft4.pdf) | [RSS 2022](https://rss.org.uk/training-events/conference2022/) |
+| October 26 | [Talk by Dr. Craig Wilkie](https://github.com/surajitstat/ramganga/files/11146913/dig_earth_slides_2.pdf) | [Digital Earth Workshop 3](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/ai3/analytics/digitalearth/digitalearthanalytics/workshop3/) |
+
+
+
 
 **Public talks**
 
@@ -44,6 +48,10 @@ Dr. Craig Wilkie presented a talk titled [**"Spatiotemporal statistical modellin
 Dr. Craig Wilkie presented a talk titled **"Statistical Downscaling for the Fusion of In-river, Drone and Satellite Water Quality Data in a River Network"** at the "Spatial and environmental modelling" session of the [8th Channel Network Conference (CNC21)](https://cnc21.sciencesconf.org/) on 8th April 2021. The slides are available [here](https://github.com/surajitstat/ramganga/files/6284950/CNC2021_slides.pdf).
 
 Dr. Craig Wilkie presented a talk titled **"Bayesian spatiotemporal statistical modelling of water quality within rivers"** at session HS2.3.7 of the [European Geosciences Union General Assembly 2021 (EGU21)](https://www.egu21.eu/). The slide is available [here](https://user-images.githubusercontent.com/59825180/117304154-570fec00-ae75-11eb-88c6-db80a3653b55.png).
+
+Dr. Craig Wilkie presented a PICO talk titled **"Predicting spatiotemporal patterns in river water quality: an application to the Ramganga river"** at the [2022 Conference on Environmental Data Science (CEDS22)](https://wp.lancs.ac.uk/ceds/) in Lancaster. The slide is available [here](https://github.com/surajitstat/ramganga/files/11146862/PICO_slide_CraigWilkie.pdf).
+
+Dr. Craig Wilkie presented a talk titled **"Spatiotemporal modelling of water quality in the Ramganga river in India"** at the [Analytics for Digital Earth workshop on water](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/ai3/analytics/digitalearth/digitalearthanalytics/workshop3/), held in Glasgow in  October 2022. The slides are available [here](https://github.com/surajitstat/ramganga/files/11146913/dig_earth_slides_2.pdf).
 
 **Workshop**
 
